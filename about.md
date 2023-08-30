@@ -44,11 +44,13 @@ I&hellip;
 
 - filed for bankruptcy in 2009&ndash;2010 and was almost homeless twice.
 
-- married my jr. high crush in the Catholic Church in 2013 after a length canonical annulment and counseling process.
+- married my jr. high crush in the Catholic Church in 2013 after a lengthy canonical annulment and counseling process.
 
 - moved to Tampa in 2013.
 
 - very suddenly became a widower in 2016 when the love of my life literally and inexplicably dropped dead in our apartment.
+
+- evacuated from Hurricane Irma in 2017.
 
 - moved back to Plant City in 2019 to start over and returned to the Catholic church for a while to regain a sense of spiritual discipline.
 
