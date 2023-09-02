@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+
 ## Social Media
 
 <i class="fa-brands fa-facebook"></i> <tt><https://facebook.com/stevenwatsonbuehler></tt>  
