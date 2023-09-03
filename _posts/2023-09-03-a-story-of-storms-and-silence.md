@@ -105,4 +105,4 @@ I’m not saying it’s going to be easy. If you think that being a Christian is
 
 It does depend, though, on how you’re going to deal. You can keep trying it alone, without Christ, and you may very well score some victories, but in the end you’ll lose the war. Or you can follow Christ, offer yourself to Him, and as long as you continue to seek him, defeat is never an option. Not because of you or anything you’ve done, but because of HIM and what HE HAS ALREADY DONE on the cross. Your choice.
 
-[^1] Scripture quotations are from the ESV&reg; Bible (The Holy Bible, English Standard Version&reg;), copyright &copy; 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
+[^1]: Scripture quotations are from the ESV&reg; Bible (The Holy Bible, English Standard Version&reg;), copyright &copy; 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
