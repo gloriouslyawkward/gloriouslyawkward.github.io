@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A response to my ex-father-in-law.
 date: 2023-09-08T04:00:00-04:00
 author: Steven Buehler
