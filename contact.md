@@ -23,7 +23,7 @@ permalink: /contact/
 PO Box 136972  
 Clermont, Florida 34713-6972
 
-_If a street address is needed (UPS, FedEx, DHL), add "1100 U.S. Hwy 27, Ste. F" to the above address. This is also the mailing address for any notices including under the DMCA._
+_If a street address is needed (<i class="fa-brands fa-ups"></i> <i class="fa-brands fa-fedex"></i> <i class="fa-brands fa-dhl"></i>), add "1100 U.S. Hwy 27, Ste. F" to the above address. This is also the mailing address for any notices including under the DMCA._
 
 <i class="fa-solid fa-square-phone"></i> Google Voice: [+1 352 557 9388](tel://+13525579388)  
 <i class="fa-regular fa-envelope"></i> <tt><gloriouslyawkward@gmail.com></tt>
