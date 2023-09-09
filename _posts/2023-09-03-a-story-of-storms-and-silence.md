@@ -5,13 +5,15 @@ date: 2023-09-03
 categories: sermons, bible, reading
 ---
 
-(a draft sermon)
+***
+(A draft sermon. The first drafts of sermons when I get the rare opportunity to preach/teach are usually stream-of-consciousness "brain dumps" that are then read, reread, and editied down in several passes until it's the far more concise, cohesive, and [hopefully] effective sermon that gets shared from a pulpit. I leave this here in its first draft form because it details part of my personal testimony, which on a _typical_ Sunday would likely end up excised by the end of all the editing and rereading passes.)
+***
 
-> And when he got into the boat, his disciples followed him. And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but he was asleep. And they went and woke him, saying, “Save us, Lord; we are perishing.” And he said to them, “Why are you afraid, O you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm. And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”
-> (ESV[^1])
 
+> And when he got into the boat, his disciples followed him. And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but he was asleep. And they went and woke him, saying, “Save us, Lord; we are perishing.” And he said to them, “Why are you afraid, O you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm. And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?” (Matthew 8:23&ndash;27)
+>
 > On that day, when evening had come, he said to them, “Let us go across to the other side.” And leaving the crowd, they took him with them in the boat, just as he was. And other boats were with him. And a great windstorm arose, and the waves were breaking into the boat, so that the boat was already filling. But he was in the stern, asleep on the cushion. And they woke him and said to him, “Teacher, do you not care that we are perishing?” And he awoke and rebuked the wind and said to the sea, “Peace! Be still!” And the wind ceased, and there was a great calm. He said to them, “Why are you so afraid? Have you still no faith?” And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”
-> (Mark 4:35–41, ESV)
+> (Mark 4:35–41)[^1]
 
 The purpose of my sharing with you is twofold: First, to provide us as followers of Christ a toolset that we can apply when life is stormy. Secondly, and perhaps for me more importantly, to share my own story. I preface this study by stating plainly for the record that I do not stand here qualified under 2 Timothy or under Titus to be a pastor or elder or leader—if anything, I stand here as a plain example of how not to live the Christian life. That’s going to become much more clear as I share my story. Mind you, I studied to be such a leader; my degree is in religion with emphasis in pastoral ministry. At this point in my life I had hoped to be in the same kind of role as your pastor for a number of years, but things didn’t work out that way because of my own failure. God has certainly blessed me with a job I enjoy and can earn a good living from, but it’s not where I desired to be when I started out.
 
