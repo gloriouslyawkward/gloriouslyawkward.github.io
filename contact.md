@@ -22,7 +22,8 @@ permalink: /contact/
 ## Mail & Phone
 
 PO Box 136972  
-Clermont, Florida 34713-6972
+Clermont, Florida 34713-6972  
+_closing as of 10/01/2023_
 
 _If a street address is needed (<i class="fa-brands fa-ups"></i> <i class="fa-brands fa-fedex"></i> <i class="fa-brands fa-dhl"></i>), add "1100 U.S. Hwy 27, Ste. F" to the above address. This is also the mailing address for any notices including under the DMCA._
 
