@@ -54,4 +54,4 @@ I&hellip;
 
 - moved back to Plant City in 2019 to start over and returned to the Catholic church for a while to regain a sense of spiritual discipline.
 
-- found a new church home and the change to pick up where I left off when I moved from California, and am moving to Clermont, Florida, in 2023.
+- found a new church home and the chance to pick up where I left off when I moved from California, and am moving to Clermont, Florida, in 2023.
