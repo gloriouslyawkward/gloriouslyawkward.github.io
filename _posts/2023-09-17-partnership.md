@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Partnership
 date: 2023-09-17
 author: Steven Buehler
