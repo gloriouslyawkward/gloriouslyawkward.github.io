@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Steven Watson Buehler
+N:Buehler;Steven;Watson
+BDAY:19720423
+GENDER:M
+EMAIL;TYPE=home:gloriouslyawkward@outlook.com
+ADR;TYPE=home;LABEL="Steven Watson Buehler\n600 Avenida Sexta Apt 210\nClermont FL 34714":;Apt 210;600 Avenida Sexta;Clermont;FL;34714;USA
+KIND:individual
+TEL;TYPE=cell:+1 (813) 659-6567
+TEL;TYPE=voip:+1 (352) 557-9388
+TZ=America/New_York
+URL=https://stevenwatsonbuehler.com
+IMPP;PREF=1:teams:gloriouslyawkward@outlook.com
+END:VCARD
