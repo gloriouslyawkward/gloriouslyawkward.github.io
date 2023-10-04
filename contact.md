@@ -21,12 +21,4 @@ permalink: /contact/
 
 ## Mail & Phone
 
-PO Box 136972  
-Clermont, Florida 34713-6972  
-_closing as of 10/01/2023_
-
-_If a street address is needed (<i class="fa-brands fa-ups"></i> <i class="fa-brands fa-fedex"></i> <i class="fa-brands fa-dhl"></i>), add "1100 U.S. Hwy 27, Ste. F" to the above address. This is also the mailing address for any notices including under the DMCA._
-
-<i class="fa-solid fa-square-phone"></i> Google Voice: [+1 352 557 9388](tel://+13525579388)  
-<i class="fa-regular fa-envelope"></i> <tt><gloriouslyawkward@gmail.com></tt>
-
+I closed my PO Box as of October 1, 2023, due to the lack of mail.  You're welcome to email me at `web@stevenwatsonbuehler.com` if you have questions, or leave a comment on the relevant post via Disqus.
