@@ -1,9 +1,12 @@
 ---
 layout: post
-title: A Tale of Storms and Silence: A Sermon
+title: A Tale of Storms and Silence, A Sermon
 date: 2023-10-04T18:58:00-04:00
 author: Steven Buehler
 ---
+
+_This is a second draft of a sermon I started working on last month (see 
+the original [here]({% post_url 2023-09-03-a-story-of-storms-and-silence %}))._
 
 I've entitled today's message, at the risk of sounding like a certain
 fantasy author, "A Tale of Storm and Silence".
