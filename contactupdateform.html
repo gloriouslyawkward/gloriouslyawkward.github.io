@@ -3,24 +3,32 @@ layout: page
 title: Contact Update Form
 ---
 
-<p>This form is designed to open an outgoing email with the information requested so you'll know exactly what you are
-    sending.  If for some reason your email software doesn't open with a new email, you can also email me the below information at <tt>gloriouslyawkward[at]outlook.com</tt>.</p>
-<form action="mailto:gloriouslyawkward@outlook.com" method="get" enctype="text/plain">
+<p>The information on this form goes through a Google Apps Script I have written to add the entry to my personal address
+    book. If you are not comfortable with sending your personal information in this manner or you have an address
+    outside the U.S. and Canada, you are welcome to email me your information at <tt>gloriouslyawkward[at]outlook.com</tt>.
+</p>
+<form action="" method="POST">
     <table>
         <tr>
             <td>Your Name:</td>
-            <td><input type="text" name="Name" /></td>
+            <td><input type="text" name="name" /></td>
         </tr>
         <tr>
             <td>Your Email:</td>
-            <td><input type="email" name="Email" /></td>
+            <td><input type="email" name="email" /></td>
         </tr>
         <tr>
             <td>Home Address:</td>
-            <td><textarea name="address" rows=5 cols=50 placeholder="Your Address Here"></textarea></td>
+            <td><input type="text" name="address" placeholder="Street Address" /><br />
+                <input type="text" name="address2" placeholder="Apt/Unit/Spc # if needed" /><br />
+                <input type="text" name="city" placeholder="City" />, <input type="text" name="state"
+                    placeholder="State" /> <input type="text" name="zip" placeholder="ZIP/Postal Code" />
+            </td>
         </tr>
         <tr>
-            <td>Phone Number:<br/><font size="-1">Please include area code!</font></td>
+            <td>Phone Number:
+                <font size="-1"><br />Please include area code!</font>
+            </td>
             <td><input type="text" name="Phone" /></td>
         </tr>
         <tr>
