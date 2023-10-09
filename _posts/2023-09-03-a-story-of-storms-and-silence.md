@@ -3,6 +3,7 @@ layout: post
 title: A Story of Storms and Silence (Matthew 8:23–27; Mark 4:35–41)
 date: 2023-09-03
 categories: sermons, bible, reading
+comments: true
 ---
 
 ***

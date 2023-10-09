@@ -3,6 +3,7 @@ layout: post
 title: A Tale of Storms and Silence, A Sermon
 date: 2023-10-04T18:58:00-04:00
 author: Steven Buehler
+comments: true
 ---
 
 _This is a second draft of a sermon I started working on last month (see 

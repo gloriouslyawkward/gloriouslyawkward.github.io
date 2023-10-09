@@ -4,6 +4,7 @@ title: A response to my ex-father-in-law.
 date: 2023-09-08T04:00:00-04:00
 author: Steven Buehler
 categories: life, recovery
+comments: true
 ---
 
 I opened this latest iteration of my blog with [a draft sermon]({% post_url 2023-09-03-a-story-of-storms-and-silence %}). It's been a long time since I preached anything; and like those times, my process, given my Asperger's/autism, has been to write a first-draft stream-of-consciousness "brain dump," which will go through numerous reads, rereads, rewrites, and practice reads before it becomes a concise, direct, and effective message to be delivered. In all likelihood, most of my personal story will end up excised from it because the topic is not something churches like to hear preached from a pulpit.  But I posted the original brain-dump so you know my story.

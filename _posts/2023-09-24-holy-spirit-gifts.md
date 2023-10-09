@@ -2,6 +2,7 @@
 layout: post
 title: Are the gifts of the Holy Spirit still valid?
 date: 2023-09-24
+comments: true
 ---
 
 **Q: Are the gifts of the Holy Spirit (speaking in tongues, _&c._) still present and available to Christians today?**
