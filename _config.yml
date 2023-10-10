@@ -8,7 +8,8 @@ author:
 description: >
   A kid trapped in the body of a 50-something because of Asperger Disorder,
   Social Anxiety, and Arrested Development. These are my stories, sermons, and exegesis, how I 
-  handle faith and life in a reformed theological context. 
+  handle faith and life in a reformed theological context.  Views and opinions are my own
+  unless explicitly attributed.
 
 # Build settings
 
@@ -41,7 +42,8 @@ minima:
 header_pages:
   - about.md
   - contact.md
+  - colophon.md
 
 # Set to `true` to show excerpts on the homepage.
 #
-# show_excerpts: false
+show_excerpts: true
