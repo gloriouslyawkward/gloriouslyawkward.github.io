@@ -1,0 +1,61 @@
+---
+layout: post
+title: Mourning the loss, or why I "hate" church.
+author: Steven Buehler
+date: 2023-10-15T15:22:00-04:00
+comments: true
+---
+
+This is going to be a hard one to write. And I expect it will be long. But when the words begin swirling around in my Asperger brain the only way they'll stop is to write them down. 
+
+I put "hate" in quotes in the title, because I am partnered with an [amazing assembly of Christ-followers in Celebration](https://www.44life.com) near my new apartment home. It's been an awesome reminder of what I was a part of growing up in a similar (less numerous) church in Santa Ana, California, where I first became a "born-again" Christian after initially growing up as a Roman Catholic and served for a number of years as a worship keyboardist and arranger and creator.
+
+At the same time, it is also a constant reminder of the many regrets I have in how I have lived my life to this point (even as a Christ-follower) and the things that "could have been" had I not, in my own human stupidity,  weakness, and self-reliance, sabotaged them so spectacularly. 
+
+I guess the best place to start is just writing about how the morning transpired.
+
+This morning, I had to drive back out to the old apartment in Plant City to get the last of my stuff (tomorrow is the end of my lease) and bring it over to the new apartment here in Clermont. It's a task I was not expecting to complete in time to make it to church at all, so I texted "T"[^1] what I was doing in case anyone asked why I wasn't there&mdash;I'm usually at the 8:00 AM service, third row, dead center by myself (in what the pastor started calling "the V.I.P. section", to which I replied that I'm there for the "early bird special"). I guess I'm so used to by habit from bible college of sitting in the front row as close to the professor as possible so I wouldn't lose attention that it came with me into everything else, including church. The other way of not losing attention or dozing off is taking copious notes of the sermon or teaching&mdash;my typing class in high school paid off in that I could type things out in lectures almost as fast as the professor was saying them.
+
+[^1]: In blogging it's my general rule not to spell out others' full names without their permission unless it's a public figure or I know for certain that they wouldn't mind seeing their name in a post.
+
+But I digress.
+
+I got the rest of my things in the car (note to self&mdash;IKEA's 99-cent [large FRAKTUR shopping bags](https://www.ikea.com/us/en/p/frakta-shopping-bag-large-blue-17228340/) are _awesome_ for moving!) and made it back, brought most the important stuff inside, and had enough time to towel away the sweat, put on some deodorant, change shirts, and make it to church for the third (11:30 AM) service, which, unlike the 8 AM one I usually attend, is packed wall-to-wall with families, young and old. I'm always joyful coming into church, and being with such a group as this one made me even more so.
+
+After the service, those that chose to stay came out to the church's sunny, open courtyard, at the center of which is a built-in water feature they use as their baptismal pool. It was a father and son who were being baptized this morning.
+
+And that's when the telltale choke in my throat that we all feel when we feel like crying started. Aspies aren't good at emotion, but it took a lot to keep the dam up. "T." (whom I also blame for the new Mac mini I'm typing on) joked about missing me at the early service, which made us both chuckle before he moved on to his responsibilities, but the chuckle was brief before that lump in my throat came back.
+
+I was there, leaning quietly against a column, the exact same way I would always be in the background leaning against a wall or door frame at home growing up while everyone else was having a good time. Alone, even in the midst of a crowd. But, had someone&mdash;anyone&mdash;dared lay a hand on my shoulder or ask what was going on in my head, the dam would've broke and I would have collapsed in weeping on the spot and brought way more attention to myself than the situation called for or that I could handle at that moment (that's always why us kids hated our recently passed Uncle Bud&mdash;one look or a touch on the shoulder at funerals would start us bawling no matter how much we tried to hold ourselves together). The last thing I wanted to do was ruin the happy moment of a father and his son being baptized.
+
+And I guess that's what started that lump in the throat. Father and son, together. Looking around and seeing all the couples and families with children happily playing and sharing fellowship and conversations between themselves.  
+
+_(Cue the flashback scene.)_
+
+The Scriptures state that children are a blessing from God.[^2] But it's something I would have had today and will never have in the future because of how I screwed things up the way I did nearly twenty years ago when was just a few years old. He's now nineteen, and with his own autism I am but a stranger whom having to meet would create too much anxiety, something I can easily understand in my own condition and accepted. The biggest regret in my life that I will carry with me for whatever time I have left is my choice to leave him behind, even though I knew he would have far greater examples of godly men to look up to than I could've been in my failure, being addicted to pornography since moving out on my own after bible college and bringing the lenses it put over my eyes into my first marriage. What these people around me all had, I had, lost, and will never have again.
+
+[^2]: Psalm 127:3&ndash;5. [Read here](https://www.biblegateway.com/passage/?search=Psalm%20127:3-5&version=ESV).
+
+I don't care how much we remind ourselves of the grace and sovereignty of God and how much the blood of Christ covers our sins, no matter how severe, and how much God has forgiven me in his divine mercy and covered me in his grace&mdash;as long as I remain a fallible human being on this earth that reminder and that regret will always be there, and the best I can do is continue to daily surrender my failings to Christ and receive the strength I need for the day, only to repeat the same process the next day. And the next.
+
+When the divorce happened, I did not mourn. As I mentioned before, Aspies aren't good with emotion; and there were too many other things to do. Getting the paperwork processed to quit-claim the house and remove my name from the mortgage. Finding a new place and moving out of the house that I was paying for to a life on my own. The entire process itself was less than a month from start to finish because there was nothing to be disputed, everything was quickly agreed to, and it was just a matter of the court putting its _imprimatur_ on the settlement agreement that the now ex-wife's attorney wrote up and made a couple of changes to that I asked for.
+
+A little more than a year or so later, I was found by my jr. high crush, and because it was in the middle of the "great recession" of the late '00s/early '10s and she was about to be kicked out of where she was living I let her come out to Florida and stay with me, and a couple of years later after canonical annulments and a year of spiritual and marriage counseling we married as a surprise sprung on our entire Catholic parish (I had returned to my Catholic roots because my new wife leaned in that direction and I was already familiar) on a Saturday in October. Three days ago as I write this would have been our 11th anniversary, but she literally dropped dead on what was supposed to be a happy June in 2016, the day we were to go out to dinner to celebrate paying off the car.  I never did make it to my own confirmation mass (she had a seizure on the way to the church the morning I was supposed to be confirmed into the Catholic church).
+
+Again, I could not mourn, even if I wanted to. Again, there was too much to do. Helping bringing out her son and daughter from California to say their goodbyes before we allowed the doctors to turn off the machines and let her pass on. Figuring out where her remains could be cremated and then sent back to her kids in California (by the way, the U.S. Post Office is the only way it can be done, overnight, and not cheaply, with a big black sticker reading CREMATED REMAINS on the Express Mail package). Making sure her internet accounts (which she provided me the passwords to a long time before; she used the same one on all of them) were archived away and closed. 
+
+I moved from the apartment in Tampa to a much smaller one in Plant City a few years after that. At the time I figured it would be temporary until things settled back down and I was ready to start over. Turns out it was _technically_ temporary, because about four years after that I find myself here in Clermont in a place more suited to my creativity and work. 
+
+_(End the flashback scenes. Return to the present.)_
+
+My failures also, when considered by just any orthodox Christian establishment, disqualify me from the very thing I had wanted to be and do for most of my life to that point, and for which I had spent a lot of time, spent a lot of money, and asked many professors and mentors in bible college to make an education and spiritual investment in me for&mdash;when I was Catholic, as a kid I wanted to become a priest; in my late teens in community college long after the family had left the Catholic Church, I was convinced I was called to be a preacher and pastor. I'm feel I am blessed in my current line of work as a technical and reporting specialist, but it's not what I ever felt I was called to. The thing I was convinced I was "called" to is long out of reach now. The second biggest regret in my life after losing my family is I always feel that I have wasted that investment and potential.  Every time I sit in church on Sunday morning or come for a study during the week, I am reminded of this.  That could have been me had I not so gloriously failed.
+
+I started this journey alone in a studio apartment in Orange, California. I am now full circle, alone; the only thing that has changed is that I'm in the literal middle of Florida instead of California and I'm 23 years older and (I hope) wiser. But I'm still a flawed human being, and there will always be the regrets.  There will always be the struggles and challenges of being high-functioning autistic.  And there will always be the sudden urge to mourn. Again.
+
+I didn't linger for long after the father and son were baptized, but made a silent and somewhat quick beeline for my car, started it up for some much-needed-in-Florida air conditioning, and finally tried to let the emotions, like the air blasting from the A/C, wash over me, and mourn as I sat in the driver seat. The tears finally came. Not many of them (again, that requires a touch or word from someone else and usually at a close one's funeral, but I knew the instant moment would have easily sufficed), but they were enough, I think.  Enough to acknowledge the pain and regret. Enough to accept at least some of the grace, mercy, and healing of My Sovereign.
+
+The quiet mourning continued on the drive home, and I'm surprised my voice didn't crack in the Taco Bell drive-thru ("Hi, online order for Steven," a line they will become very familiar with if Plant City was any indication) on the way, and once at last in my own environment I was able to release the emotion again before a short post to my Facebook and opening up my copy of [VS Code](https://code.visualstudio.com) to write as the soft taco combo next to me gets cold and the ice melts in my sparkling dragon tea and waters it down.
+
+I know and understand that these regrets will always go with me. That is simply how life works in a broken world as a broken human being; and on this side of the veil, I suppose it will be not very different from Paul's thorn in the flesh. But I will also continue to be reminded that my Lord's grace is sufficient and that in my human weakness his strength will be made perfect.[^3] It's a reminder I need every day and it's the only thing that keeps me wanting to live.
+
+[^3]: 2 Corinthians 12:7&mdash;9. [Read here](https://www.biblegateway.com/passage/?search=2%20Corinthians%2012:7-9&version=ESV).
