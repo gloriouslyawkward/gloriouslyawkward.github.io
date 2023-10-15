@@ -5,9 +5,9 @@ date: 2023-10-09T15:51:00-04:00
 author: Steven Buehler
 ---
 
-## What's is this page?
+## What's this page?
 
-A colophon is definied as a brief description of publication or production notes relevant to the edition, in modern books usually located at the verso of the title-leaf, but also sometimes located at the end of the book.  I first saw this used by [John Saddington](https://twitter.com/8bit/) when he had a web site of his own (he now redirects `john.do` to his Twitter/X account), wherein he provided a listing of the products he uses in his day-to-day life in addition to how his web site was put together. 
+A colophon is definied as a brief description of publication or production notes relevant to the edition, in modern books usually located at the verso of the title-leaf, but also sometimes located at the end of the book.  I first saw this used by [John Saddington](https://twitter.com/8bit/) when he had a web site of his own (he now redirects `john.do` to his Twitter/𝕏 account), wherein he provided a listing of the products he uses in his day-to-day life in addition to how his web site was put together. 
 
 You can find a short listing of other users' colophons at <https://indieweb.org/colophon>.
 
@@ -25,7 +25,7 @@ My personal laptop is a Victus by HP 15&Prime; Gaming Laptop running on an Intel
 
 My work laptop is an HP ZBook Firefly 15&Prime; G8 provided by my employer.
 
-For document scanning (because I try to go as paperless as possible), I use a Brother DSMobile 720DW wireless portable page scanner and use `ocrmypdf` on the command line to OCR and otherwise process scans. I have an HP OfficeJet Pro 9015e on my desktop that does the same thing. 
+For document scanning (because I try to go as paperless as possible), I use a Brother DSMobile 920DW wireless portable page scanner and use `ocrmypdf` on the command line to OCR and otherwise process scans. I have an HP OfficeJet Pro 9015e on my desktop that does the same thing. 
 
 ## Mobile hardware.
 
