@@ -58,4 +58,4 @@ The quiet mourning continued on the drive home, and I'm surprised my voice didn'
 
 I know and understand that these regrets will always go with me. That is simply how life works in a broken world as a broken human being; and on this side of the veil, I suppose it will be not very different from Paul's thorn in the flesh. But I will also continue to be reminded that my Lord's grace is sufficient and that in my human weakness his strength will be made perfect.[^3] It's a reminder I need every day and it's the only thing that keeps me wanting to live.
 
-[^3]: 2 Corinthians 12:7&mdash;9. [Read here](https://www.biblegateway.com/passage/?search=2%20Corinthians%2012:7-9&version=ESV).
+[^3]: 2 Corinthians 12:7&ndash;9. [Read here](https://www.biblegateway.com/passage/?search=2%20Corinthians%2012:7-9&version=ESV).
