@@ -19,7 +19,7 @@ I originally chose [Cormorant](https://fonts.google.com/?query=Cormorant) as my 
 
 ## My daily hardware.
 
-I switched back to Windows from MacOS back in 2022 after Apple switched their machines to run on their own in-house Apple Silicon&mdash;not because Intel was superior but because the use of integrated memory means upgrading a Mac's RAM requires buying a whole new machine. Given the choice I would prefer to use Linux, but some of my software and games run poorly, if at all, under [WINE](https://www.wine-hq.org).  I may eventually go back to a Mac if the pricing is right.
+I switched back to Windows from MacOS back in 2022 after Apple switched their machines to run on their own in-house Apple Silicon&mdash;not because Intel was superior but because the use of integrated memory means upgrading a Mac's RAM requires buying a whole new machine. Given the choice I would prefer to use Linux, but some of my software and games run poorly, if at all, under [WINE](https://www.wine-hq.org).  I may eventually go back to a Mac if the pricing is right.  _(EDIT: I'm on a Mac mini again, and I blame Taylor.)_
 
 My personal laptop is a Victus by HP 15&Prime; Gaming Laptop running on an Intel Core i7-12650H CPU and Nvidia RTX 3050 Ti Notebook GPU. I've upgraded it since purchase to 64 GB of [G.Skill](https://www.gskill.com) RAM and a 2 TB Samsung EVO 900 m.2 SSD. 
 
