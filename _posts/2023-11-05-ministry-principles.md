@@ -6,7 +6,7 @@ layout: post
 comments: true
 ---
 
-I intend that this post be one that continuously involves, as I build what I hope are biblical perspectives upon whatever ministry I and others may be called to, especially when it's a public one.  These are not intended to be in any order or priority.
+I intend that this post be one that continuously evolves, as I build what I hope are biblical perspectives upon whatever ministry I and others may be called to, especially when it's a public one.  These are not intended to be in any order or priority.
 
 In writing these, I realize that because of my past I may never be called upon to be a _pastor_ or actually _lead_ a body of believers in Christ as one, because I long ago disqualified myself from that role by my own stupidity. But I feel these are principles that still can be applied to anyone involved in public ministry.
 
